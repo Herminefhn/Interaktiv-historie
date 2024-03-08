@@ -1,0 +1,25 @@
+.bilde img {
+
+    width: 70%;
+    height: auto;
+
+}
+
+#scene2 {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+.hidden2 {
+    display: none;
+}
+
+#story1 {
+    display: none;
+}
+
+#story2 {
+    display: none;
+}
